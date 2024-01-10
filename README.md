@@ -41,7 +41,7 @@ Update the webdriver_path variable in main.py with the path to your Chrome WebDr
    python main.py
    
 
-## Usage Notes
+## Usage Notes 
 - **Customization**: Modify the urls_dict variable in main.py to target specific Zalando categories and subcategories.
 
 - **WebDriver**: Ensure that the Chrome WebDriver path is correctly configured for your system.
