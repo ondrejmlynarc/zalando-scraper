@@ -4,7 +4,7 @@ The Zalando Scraper is a Python application designed to extract product informat
 
 ## Features
 
-- **Dynamic Web Scraping:** The scraper uses Selenium to dynamically navigate through Zalando's web pages, allowing it to handle paginated content and extract comprehensive product information.
+- **Dynamic Web Scraping:** The scraper uses Selenium to dynamically navigate through Zalando's web pages, allowing it to handle paginated content and extract comprehensive product information. 
 
 - **Data Storage:** Extracted product details, including title, brand, URL, prices, image URLs, and more, are stored in a CSV file for easy analysis and further processing.
 
